@@ -1,12 +1,12 @@
 body{
   background : black;
   color : green;
-  text-decoration: none;
   list-style-type:none;
   padding: 70px;
 }
 a{
   text-decoration: none;
+  color : green;
 }
 
 
