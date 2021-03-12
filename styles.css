@@ -1,7 +1,5 @@
 body{
   background : black;
   color : green;
-}
-a {
-  text-decorations : none;
+  text-decoration : none;
 }
